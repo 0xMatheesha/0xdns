@@ -6,6 +6,7 @@
 # Date: 07 November 2025 18:46:53 (UTC)
 # Number of unique domains: 109,614
 #
+# License: MIT, https://github.com/StevenBlack/hosts/blob/master/license.txt
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
 # Project releases: https://github.com/StevenBlack/hosts/releases
