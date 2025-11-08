@@ -31,7 +31,7 @@ go build -o 0xdns server.go
 ```
 Example output:
 ```bash
-Getting ready 📝 \
+Getting ready 📝
 Starting the server 🛫
 ``` 
 ## Testing
